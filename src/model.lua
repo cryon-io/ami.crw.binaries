@@ -5,6 +5,6 @@ end
 APP.model = eliUtil.merge_tables(
     APP.model,
     {
-        DAEMON_URL = "https://github.com/Crowndev/crown-core/releases/download/v0.13.4.0/Crown-0.13.4.0-Linux64.zip"
+        DAEMON_URL = "https://github.com/Crowndev/crown-core/releases/download/v0.14.0.0-Emerald/Crown-0.14.0.0-Linux64.zip"
     }
 )
